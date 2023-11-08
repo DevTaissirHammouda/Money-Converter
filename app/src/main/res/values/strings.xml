@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1-P1</string>
+    <string name="title">MoneyConverter</string>
+    <string name="res">The result will Be displayed here</string>
+</resources>
